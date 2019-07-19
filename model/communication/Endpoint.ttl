@@ -86,7 +86,7 @@ ids:endpointOperationBinding
     rdfs:label "endpoint operation binding"@en;
     rdfs:domain ids:InteractiveEndpoint;
     rdfs:range ids:OperationBinding;
-    rdfs:comment "Operation bound to te endpoint by means of a protocol binding."@en.
+    rdfs:comment "Operation bound to the endpoint by means of a protocol binding."@en.
 
 ids:path
     a owl:DatatypeProperty;
